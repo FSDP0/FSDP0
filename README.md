@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
+##Stack
+###Programming Languages that I've used at least once
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Vimeo&logoColor=white"/></a>
