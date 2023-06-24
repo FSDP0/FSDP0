@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Stack
+### Tech Stack List
+
 ### Programming Languages that I've used at least once
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank"><img src="https://img.shields.io/badge/c-#A8B9CC?&style=for-the-badge&logo=c&logoColor=white" /></a>
+
+### Frameworks
