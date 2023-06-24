@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 ### Tech Stack List
 
 ### Programming Languages that I've used at least once
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /></a>
-<!-- 자바 뱃지 -->
-<img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /></a><!-- 자바 뱃지 --><img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
 <!-- 자바스크립트 뱃지 -->
 <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank"><img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /></a>
 <!-- 타입스크립트 뱃지 -->
