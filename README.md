@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
 
 ### Developement tools that I've used at least once
-<img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=flat&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/NGINX-009639.svg?&style=flat&logo=NGINX&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=flat&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/NGINX-009639.svg?&style=flat&logo=NGINX&logoColor=white" />
 
 ### Frameworks that I've used at least once
 <!-- Nest.js -->
