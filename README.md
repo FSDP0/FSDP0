@@ -32,6 +32,3 @@ Here are some ideas to get you started:
 
 ### ML tools that I've used at least once
 <img src="https://img.shields.io/badge/Pytorch-%23EE4C2C.svg?&style=flat&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Tensorflow-%23FF6F00.svg?&style=fat&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/ONNX-005CED.svg?&style=fat&logo=ONNX&logoColor=white" /> 
-
-
-
