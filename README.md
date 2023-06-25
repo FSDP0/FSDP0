@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
 
 ### Developement tools that I've used at least once
-<img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=flat&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=flat&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/NGINX-009639.svg?&style=flat&logo=NGINXlogoColor=white" />
 
 ### Frameworks that I've used at least once
 <!-- Nest.js -->
 <img src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?&style=flat&logo=nestjs&logoColor=white" /> <!-- React --><img src="https://img.shields.io/badge/React.js-%2361DAFB.svg?&style=flat&logo=react&logoColor=black" /> <!-- Svelte --><img src="https://img.shields.io/badge/Svelte.js-%23FF3E00.svg?&style=flat&logo=svelte&logoColor=white" /> <!-- Vue --><img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?&style=flat&logo=vue.js&logoColor=white" /> <!-- Spring --><img src="https://img.shields.io/badge/Spring-%236DB33F.svg?&style=flat&logo=spring&logoColor=white" /> <!-- Flutter --><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=flat&logo=flutter&logoColor=white" />
 
 ### ML tools that I've used at least once
-<img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?&style=flat&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?&style=fat&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Pytorch-%23EE4C2C.svg?&style=flat&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Tensorflow-%23FF6F00.svg?&style=fat&logo=tensorflow&logoColor=white" />
 
 
 
