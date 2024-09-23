@@ -1,5 +1,11 @@
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=magenta&height=300&section=header&text=LeeGueTae%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62"/>
+</p>
+
 ### Hi there 👋
 
+Contact
+Email: bigstar1201@naver.com
 <!--
 **FSDP0/FSDP0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
