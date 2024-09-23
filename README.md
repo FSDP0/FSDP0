@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=#b6bcde&height=500&section=header&text=LeeGueTae%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62"/>
 </p>
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Lee%20Gue%20Tae&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Lee%20Gue%20Tae%20&fontAlign=80&fontAlignY=40&color=gradient)
 
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Lee%20Gue%20Tae&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
