@@ -24,7 +24,7 @@
     <br />
     <h3><b>Usage</b></h3>
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=fsdp0&hide=javascript,html,css&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=fsdp0&hide=javascript,typescript,html,css&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
     <br />
     <br />
     <h3><b>Contact</b></h3>
